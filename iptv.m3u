@@ -29,3 +29,13 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 , BAND SPORTS
 https://m3u9.ml/a2/hls1/bandsports.m3u8?mu3zAQc9HC3GbwJq=gGADvtIRUE43iYJM5iFJUQ&3U1G7qaTxrPbalZnEx=1653873148
+
+#EXTINF:-1 , Discovery Turbo
+https://m3u9.ml/a2/hls1/discoveryturbo.m3u8?mu3zAQc9HC3GbwJq=sLCm__QBfIJRdxwqEsZ8vA&3U1G7qaTxrPbalZnEx=1653869895
+
+#EXTINF:-1 , History Channel
+https://m3u9.ml/a2/hls1/history.m3u8?mu3zAQc9HC3GbwJq=HK4CFOUxHOAFbOVudGpb2A&3U1G7qaTxrPbalZnEx=1653880012
+
+
+#EXTINF:-1 , Discovery Channel
+https://m3u9.ml/a2/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=qUePr6TRn-CA5mIgBzLE-A&3U1G7qaTxrPbalZnEx=1653882115
